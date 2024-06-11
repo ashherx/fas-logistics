@@ -1,0 +1,18 @@
+{
+  "name": "fas_logistics_backend",
+  "version": "1.0.0",
+  "description": "Logistics App Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.1",
+    "nodemon": "^3.1.3"
+  }
+}
